@@ -5,4 +5,5 @@ training.xlsx
 processed_data.xlsx
 processed_data.csv
 oos_data.xlsx
+.venv
 oos_data_updated.xlsx
